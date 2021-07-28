@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\bin\Debug\JSONChallenge.exe.config
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\bin\Debug\JSONChallenge.exe
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\bin\Debug\JSONChallenge.pdb
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\obj\Debug\JSONChallenge.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\obj\Debug\JSONChallenge.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\obj\Debug\JSONChallenge.csproj.CopyComplete
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\obj\Debug\JSONChallenge.exe
+C:\ElevenFiftyProjects\JSONChallenge\JSONChallenge\obj\Debug\JSONChallenge.pdb
