@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Badge.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Event.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
